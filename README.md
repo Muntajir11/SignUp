@@ -22,14 +22,14 @@ This project is a secure backend application built for user authentication using
 3. Set up environment variables:
 
 Create a `.env` file in the project root directory and add the following environment variables:
-PG_USER=your_postgres_username <br>
-PG_PASSWORD=your_postgres_password
-PG_DATABASE=your_database_name
-PG_HOST=your_postgres_host
-PG_PORT=your_postgres_port
-SESSION_SECRET=your_session_secret
-GOOGLE_CLIENT_ID=your_google_client_id
-GOOGLE_CLIENT_SECRET=your_google_client_secret
+PG_USER=your_postgres_username <br />
+PG_PASSWORD=your_postgres_password <br />
+PG_DATABASE=your_database_name <br />
+PG_HOST=your_postgres_host <br />
+PG_PORT=your_postgres_port <br />
+SESSION_SECRET=your_session_secret <br />
+GOOGLE_CLIENT_ID=your_google_client_id <br />
+GOOGLE_CLIENT_SECRET=your_google_client_secret <br />
 
 
 Replace `your_postgres_username`, `your_postgres_password`, `your_database_name`, `your_postgres_host`, `your_postgres_port` with your PostgreSQL database credentials, and `your_session_secret`, `your_google_client_id`, `your_google_client_secret` with your own secret keys.
