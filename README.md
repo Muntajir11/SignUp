@@ -14,7 +14,7 @@ This project is a secure backend application built for user authentication using
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/ Muntajir11/SignUp.git 
+1. Clone the repository: git clone  https://github.com/Muntajir11/SignUp.git 
 2. Install dependencies:
 --> cd SignUp [Go to the folder where it was cloned]
 --> npm install
