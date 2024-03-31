@@ -22,7 +22,7 @@ This project is a secure backend application built for user authentication using
 3. Set up environment variables:
 
 Create a `.env` file in the project root directory and add the following environment variables:
-PG_USER=your_postgres_username
+PG_USER=your_postgres_username <br>
 PG_PASSWORD=your_postgres_password
 PG_DATABASE=your_database_name
 PG_HOST=your_postgres_host
