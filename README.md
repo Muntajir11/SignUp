@@ -12,6 +12,10 @@ This project is a secure backend application built for user authentication using
 - Session Management: Sessions are managed using express-session with session data stored in the PostgreSQL database.
 - User Interface: The front-end interface is built using HTML, CSS, and EJS templates.
 
+## Demo
+
+https://github.com/Muntajir11/SignUp/assets/91109805/c9856a83-d041-49f3-a489-a3b2ac2e3fa5
+
 ## Installation
 
 1. Clone the repository: git clone  https://github.com/Muntajir11/SignUp.git 
